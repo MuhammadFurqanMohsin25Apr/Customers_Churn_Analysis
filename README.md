@@ -1,4 +1,4 @@
-##📈 Customer Churn Analysis Dashboard
+# 📈 Customer Churn Analysis Dashboard
 This project visualizes customer churn data to uncover key trends and actionable insights to improve customer retention.
 
 🛠 Tools Used
