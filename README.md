@@ -1,4 +1,4 @@
-📈 Customer Churn Analysis Dashboard
+##📈 Customer Churn Analysis Dashboard
 This project visualizes customer churn data to uncover key trends and actionable insights to improve customer retention.
 
 🛠 Tools Used
@@ -43,7 +43,7 @@ Multiple Lines
 Service Usage Segmentation
 
 🖼 Dashboard Preview
-![Dashboard](https://yourdomain.com/path/to/dashboard_image.png)
+![Dashboard](https://github.com/MuhammadFurqanMohsin25Apr/Customers_Churn_Analysis/blob/main/Dashboard5.png)
 🔍 Insights
 Majority churned on month-to-month contracts
 
