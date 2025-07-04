@@ -2,30 +2,30 @@
 This project visualizes customer churn data to uncover key trends and actionable insights to improve customer retention.
 
 ## 🛠 Tools Used
-Power BI
-Excel
+- Power BI
+- Excel
 
 ## 🗂 Dataset
 Includes:
-Contract Type
-Gender
-Payment Method
-Internet Service
-Multiple Lines
-Churn Label
+- Contract Type
+- Gender
+- Payment Method
+- Internet Service
+- Multiple Lines
+- Churn Label
 
 ## 📊 Key Features
-Customers at Risk
-Total Admin & Tech Tickets
-Total Charges & Average Monthly Charges
+- Customers at Risk
+- Total Admin & Tech Tickets
+- Total Charges & Average Monthly Charges
 
-Churn Breakdown by:
-Gender
-Contract
-Payment Method
-Internet Service
-Multiple Lines
-Service Usage Segmentation
+### Churn Breakdown by:
+- Gender
+- Contract
+- Payment Method
+- Internet Service
+- Multiple Lines
+- Service Usage Segmentation
 
 ## 🖼 Dashboard Preview
 
@@ -33,6 +33,6 @@ Service Usage Segmentation
 
 
 ## 🔍 Insights
-Majority churned on month-to-month contracts
-Electronic check most common payment method
-Nearly 50% churn across genders
+- Majority churned on month-to-month contracts
+- Electronic check most common payment method
+- Nearly 50% churn across genders
